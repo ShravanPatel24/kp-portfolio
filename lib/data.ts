@@ -37,7 +37,7 @@ export const experiencesData = [
   {
     title: "Higher Secondary Education",
     location: "Govt. senior sec School | Swaroopganj | Rajasthan",
-    description: "Science",
+    description: "Science (PCM)",
     icon: React.createElement(LuGraduationCap),
     date: "2011 - 2012",
   },
